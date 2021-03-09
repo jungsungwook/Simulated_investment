@@ -9,5 +9,5 @@
 ***
 # 목차
 1. 서버
-> /Asset/server에 위치.
+> './Assets/server' 에 위치.
 2. 클라이언트
