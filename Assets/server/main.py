@@ -4,8 +4,8 @@ import socket
 from _thread import *
 coindata = {"BTC":0,"XRP":0,"XLM":0,"EOS":0}
 endpoint = "https://api.binance.com"
-APIKEY = "ZtKLZL0kgCSudwEpHGz4w8D911JbhjD5NeADQBCyUev1RXOkydOvrpWPq7MYydB6"
-SECRETKEY = "CMn7PMmYpzdoewZVfWWihyKLrSSg0YFFXyU2B1qVU2NA6riCQlnftpBawbWJOQiu"
+APIKEY = ""
+SECRETKEY = ""
 HOST = ''
 PORT = 9988
 global streamLen
